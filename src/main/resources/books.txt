@@ -1,0 +1,49 @@
+The Great Gatsby|F. Scott Fitzgerald|Classic|1925-04-10|A novel about the American dream and the Roaring Twenties.|read
+To Kill a Mockingbird|Harper Lee|Fiction|1960-07-11|A story of racial injustice in the Deep South.|read
+1984|George Orwell|Dystopian|1949-06-08|A dystopian novel set in a totalitarian society under constant surveillance.|read
+Pride and Prejudice|Jane Austen|Romance|1813-01-28|A romantic novel about manners and matrimonial machinations.|read
+The Catcher in the Rye|J.D. Salinger|Fiction|1951-07-16|A story about teenage angst and alienation.|not read
+Moby-Dick|Herman Melville|Adventure|1851-10-18|The narrative of Captain Ahab's obsessive quest to kill the white whale, Moby-Dick.|not read
+War and Peace|Leo Tolstoy|Historical Fiction|1869-01-01|A novel that chronicles the history of the French invasion of Russia.|not read
+The Odyssey|Homer|Epic|0800-01-01|An ancient Greek epic poem attributed to Homer.|read
+Crime and Punishment|Fyodor Dostoevsky|Philosophical Fiction|1866-01-01|A story about the mental anguish and moral dilemmas of an impoverished ex-student.|not read
+The Hobbit|J.R.R. Tolkien|Fantasy|1937-09-21|A children's fantasy novel and prelude to The Lord of the Rings.|read
+Brave New World|Aldous Huxley|Dystopian|1932-01-01|A novel set in a futuristic World State, where citizens are environmentally engineered into an intelligence-based social hierarchy.|read
+Jane Eyre|Charlotte Brontë|Romance|1847-10-16|A novel about the experiences of its eponymous heroine, including her growth to adulthood and her love for Mr. Rochester.|read
+Wuthering Heights|Emily Brontë|Romance|1847-12-01|A story of the intense and almost demonic love between Catherine Earnshaw and Heathcliff.|not read
+The Divine Comedy|Dante Alighieri|Epic Poetry|1320-01-01|An epic poem describing the author's journey through Hell, Purgatory, and Paradise.|read
+The Brothers Karamazov|Fyodor Dostoevsky|Philosophical Fiction|1880-01-01|A passionate philosophical novel set in 19th-century Russia.|not read
+The Adventures of Huckleberry Finn|Mark Twain|Adventure|1884-12-10|A novel about a boy's journey down the Mississippi River.|read
+Alice's Adventures in Wonderland|Lewis Carroll|Fantasy|1865-11-26|A novel about a girl named Alice who falls through a rabbit hole into a fantasy world.|read
+The Iliad|Homer|Epic|0762-01-01|An ancient Greek epic poem attributed to Homer.|read
+Les Misérables|Victor Hugo|Historical Fiction|1862-01-01|A novel about the struggles of several characters in early 19th-century France.|not read
+The Picture of Dorian Gray|Oscar Wilde|Philosophical Fiction|1890-06-20|A novel about a man who remains young while his portrait ages.|read
+Anna Karenina|Leo Tolstoy|Romance|1878-01-01|A novel about the tragic romance between Anna Karenina and Count Vronsky.|not read
+Don Quixote|Miguel de Cervantes|Adventure|1605-01-16|A novel about the adventures of a noble who reads so many chivalric romances that he decides to become a knight-errant.|read
+Fahrenheit 451|Ray Bradbury|Dystopian|1953-10-19|A novel about a future American society where books are outlawed and "firemen" burn any that are found.|read
+One Hundred Years of Solitude|Gabriel García Márquez|Magical Realism|1967-05-30|A multi-generational story of the Buendía family, whose patriarch founded the town of Macondo.|not read
+Catch-22|Joseph Heller|Satire|1961-11-10|A novel about the absurdities of war and military life.|read
+The Grapes of Wrath|John Steinbeck|Fiction|1939-04-14|A novel about the Joad family and their journey from the Dust Bowl to California.|read
+Great Expectations|Charles Dickens|Fiction|1861-08-01|A novel about the growth and personal development of an orphan named Pip.|read
+The Lord of the Rings|J.R.R. Tolkien|Fantasy|1954-07-29|A high-fantasy epic about the quest to destroy the One Ring.|read
+The Kite Runner|Khaled Hosseini|Fiction|2003-05-29|A story of friendship and redemption set in Afghanistan.|read
+Slaughterhouse-Five|Kurt Vonnegut|Science Fiction|1969-03-31|A novel about the World War II experiences and journeys through time of Billy Pilgrim.|not read
+The Chronicles of Narnia|C.S. Lewis|Fantasy|1950-10-16|A series of seven fantasy novels about the adventures of children in the world of Narnia.|read
+The Alchemist|Paulo Coelho|Fiction|1988-01-01|A novel about a shepherd's journey to the pyramids of Egypt.|read
+Harry Potter and the Philosopher's Stone|J.K. Rowling|Fantasy|1997-06-26|A novel about a young boy who discovers he is a wizard.|read
+A Tale of Two Cities|Charles Dickens|Historical Fiction|1859-04-30|A novel set in London and Paris before and during the French Revolution.|read
+Frankenstein|Mary Shelley|Gothic Fiction|1818-01-01|A novel about a scientist who creates a sapient creature in an unorthodox scientific experiment.|read
+Dracula|Bram Stoker|Horror|1897-05-26|A novel about Count Dracula's attempt to move from Transylvania to England.|read
+The Count of Monte Cristo|Alexandre Dumas|Adventure|1844-01-01|A novel about a man wrongfully imprisoned who escapes and seeks revenge.|read
+The Old Man and the Sea|Ernest Hemingway|Fiction|1952-09-01|A short novel about an old Cuban fisherman's struggle with a giant marlin.|read
+The Sound and the Fury|William Faulkner|Fiction|1929-10-07|A novel about the decline of the Compson family in the American South.|not read
+Ulysses|James Joyce|Modernist|1922-02-02|A novel that chronicles the appointments and encounters of Leopold Bloom in Dublin.|not read
+Beloved|Toni Morrison|Historical Fiction|1987-09-16|A novel about an escaped slave haunted by her past.|read
+The Stranger|Albert Camus|Philosophical Fiction|1942-01-01|A novel about an indifferent French Algerian who commits a murder and is tried for it.|read
+The Sun Also Rises|Ernest Hemingway|Fiction|1926-10-22|A novel about American and British expatriates who travel from Paris to Pamplona.|read
+Lord of the Flies|William Golding|Fiction|1954-09-17|A novel about a group of boys stranded on an uninhabited island and their disastrous attempt to govern themselves.|read
+Gone with the Wind|Margaret Mitchell|Historical Fiction|1936-06-30|A novel about the life of Scarlett O'Hara during the American Civil War.|not read
+The Road|Cormac McCarthy|Post-apocalyptic|2006-09-26|A novel about a father and son's journey through a post-apocalyptic world.|read
+Lolita|Vladimir Nabokov|Fiction|1955-09-15|A novel about a middle-aged man's obsession with a twelve-year-old girl.|not read
+Heart of Darkness|Joseph Conrad|Novella|1899-01-01|A novel about a voyage up the Congo River into the Congo Free State.|read
+Madame Bovary|Gustave Flaubert|Fiction|1857-01-01|A novel about a doctor's wife who has adulterous affairs and lives beyond her means.|not read

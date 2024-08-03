@@ -9,5 +9,4 @@ public class ShelfSpaceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ShelfSpaceApplication.class, args);
 	}
-
 }
