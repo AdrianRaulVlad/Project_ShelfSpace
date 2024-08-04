@@ -36,11 +36,10 @@ public class BookService {
                 .collect(Collectors.toList());
     }
 
-    public List<String> getAllBooksByGenre(String genre) {
+    public List<Book> getAllBooksByGenre(String genre) {
         return books.stream()
                 .filter(book -> book.getGenre().equalsIgnoreCase(genre))
-                .map(Book::getTitle)
-                .collect(Collectors.toList());
+                .toList();
     }
 
     public List<Book> getAllEntriesByGenre(String genre) {
