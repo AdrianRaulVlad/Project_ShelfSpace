@@ -2,6 +2,7 @@ package org.fasttrack.ShelfSpace;
 
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
+import org.fasttrack.ShelfSpace.exceptions.EntityNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -99,7 +100,7 @@ public class BookService {
     }
 
     public Book deleteBookEntry(long id) {
-        Book bookToBeDeleted = getBookById(id).orElseThrow(RuntimeException::new);
+        Book bookToBeDeleted = getBookById(id).orElseThrow(() -> new EntityNotFoundException("Can't delete a missing book", id));
         books.remove(bookToBeDeleted);
         return bookToBeDeleted;
     }

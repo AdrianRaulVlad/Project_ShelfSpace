@@ -2,6 +2,7 @@ package org.fasttrack.ShelfSpace;
 
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
+import org.fasttrack.ShelfSpace.exceptions.EntityNotFoundException;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -23,7 +24,7 @@ public class BookController {
 
     @GetMapping("/books/{id}")
     public Book getBookById(@PathVariable long id) {
-        return bookService.getBookById(id).orElseThrow(RuntimeException::new);
+        return bookService.getBookById(id).orElseThrow(() -> new EntityNotFoundException("Can't find the book", id));
     }
 
     @DeleteMapping("/books/{id}")
