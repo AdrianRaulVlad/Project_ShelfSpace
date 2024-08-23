@@ -1,8 +1,9 @@
-package org.fasttrack.ShelfSpace;
+package org.fasttrack.ShelfSpace.controller;
 
-import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
-import org.fasttrack.ShelfSpace.exceptions.EntityNotFoundException;
+import org.fasttrack.ShelfSpace.model.book.Book;
+import org.fasttrack.ShelfSpace.model.exceptions.EntityNotFoundException;
+import org.fasttrack.ShelfSpace.service.book.BookService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

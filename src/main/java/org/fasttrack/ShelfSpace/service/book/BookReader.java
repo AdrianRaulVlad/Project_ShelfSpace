@@ -1,5 +1,7 @@
-package org.fasttrack.ShelfSpace;
+package org.fasttrack.ShelfSpace.service.book;
 
+import org.fasttrack.ShelfSpace.model.book.Book;
+import org.fasttrack.ShelfSpace.model.person.Person;
 import org.springframework.stereotype.Repository;
 
 import java.io.File;
@@ -33,7 +35,7 @@ public class BookReader {
         Book.BookBuilder bookBuilder = Book.builder()
                 .id(id)
                 .title(tokens[0])
-                .author(tokens[1])
+                .author(new Person(tokens[1]))
                 .genre(tokens[2])
                 .releaseDate(LocalDate.parse(tokens[3], DateTimeFormatter.ofPattern("yyyy-MM-dd")))
                 .description(tokens[4])

@@ -1,4 +1,4 @@
-package org.fasttrack.ShelfSpace.exceptions;
+package org.fasttrack.ShelfSpace.model.exceptions;
 
 import lombok.Getter;
 

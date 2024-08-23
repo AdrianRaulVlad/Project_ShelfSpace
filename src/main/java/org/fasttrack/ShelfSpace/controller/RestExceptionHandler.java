@@ -1,6 +1,6 @@
-package org.fasttrack.ShelfSpace;
+package org.fasttrack.ShelfSpace.controller;
 
-import org.fasttrack.ShelfSpace.exceptions.EntityNotFoundException;
+import org.fasttrack.ShelfSpace.model.exceptions.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
