@@ -22,7 +22,7 @@ public class Book {
     private String title;
     @OneToOne(cascade = CascadeType.ALL)
     private Person author;
-    @Column(name = "book_genre")
+    @Column
     private String genre;
     @JsonIgnore
     private LocalDate releaseDate;
