@@ -25,7 +25,7 @@ public class BookController {
 
     @GetMapping("/books/{id}")
     public Book getBookById(@PathVariable long id) {
-        return bookService.getBookById(id).orElseThrow(() -> new EntityNotFoundException("Can't find the book", id));
+        return bookService.getBookById(id);
     }
 
     @DeleteMapping("/books/{id}")

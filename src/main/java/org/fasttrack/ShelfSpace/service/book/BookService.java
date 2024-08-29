@@ -31,12 +31,12 @@ public class BookService {
         return bookRepository.findByGenre(genre);
     }
 
-    public Optional<Book> getBookById(long id) {
-        return bookRepository.findById(id);
+    public Book getBookById(long id) {
+        return bookRepository.findById(id).orElseThrow(() -> new EntityNotFoundException("Can't find the book", id));
     }
 
     public Book deleteBookEntry(long id) {
-        Book bookToBeDeleted = getBookById(id).orElseThrow(() -> new EntityNotFoundException("Can't delete a missing book", id));
+        Book bookToBeDeleted = getBookById(id);
         bookRepository.deleteById(id);
         return bookToBeDeleted;
     }
